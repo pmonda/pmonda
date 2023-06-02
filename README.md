@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pmonda
 - 👀 I’m interested in Computer Engineering, Software Engineering, Artificial Intelligence
-- 💊📚I'm also interested in Medicine and the intersection of Software Engineering with Medical applications.
-- 🌱 I’m currently learning Data Structures/Algorithms and Electrical Engineering Fundamentals II
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently looking for internship opportunities to broaden my horizons and grow my experience
+- 💞️ I’m looking to collaborate on Software Development Projects, Machine Learning Models, and more!
 - 📫 How to reach me praneymonda@gmail.com
 
 <!---
